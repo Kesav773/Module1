@@ -29,7 +29,7 @@ print("c:",c)
 print("d:",d)
 ```
 ## Output
-![Screenshot 2025-04-29 111746](https://github.com/user-attachments/assets/8684e244-f8e4-412b-bb17-861480d70dc7)
+![Screenshot 2025-04-29 111746](https://github.com/user-attachments/assets/183469a8-af7d-415b-8765-c9206d9e9f7c)
 
 ## Result
 Thus,the python program was executed successfully

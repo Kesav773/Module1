@@ -13,7 +13,7 @@ print('T')
 print('a')
 ```
 ## Output
-![Screenshot 2025-04-29 112025](https://github.com/user-attachments/assets/a37f3f18-5287-41af-97f0-c6b0353ce4df)
+![Screenshot 2025-04-29 112025](https://github.com/user-attachments/assets/efe0b890-f20a-4f7f-b4b9-1a8e81577b1e)
 
 ## Result
 Thus,the python program was executed successfully

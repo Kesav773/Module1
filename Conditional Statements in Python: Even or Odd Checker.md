@@ -21,7 +21,7 @@ else:
 ```
 
 ## Output
-![Screenshot 2025-04-29 105944](https://github.com/user-attachments/assets/5e849af7-5832-4f0e-a597-3f0ebea089f6)
+![Screenshot 2025-04-29 105944](https://github.com/user-attachments/assets/bcc73167-572a-47aa-9cce-22bc06fb227f)
 
 
 ## Result
